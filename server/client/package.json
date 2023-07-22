@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "engines": {
-    "node": "18.16.0",
+    "node": "18.x",
     "yarn": "1.22.19",
     "npm": "9.6.7"
   },
