@@ -8,6 +8,11 @@
     "server": "node server.js",
     "heroku-postbuild": "cd client && npm install && npm run build"
   },
+  "engines": {
+    "node": "18.x",
+    "yarn": "1.x",
+    "npm": "9.x"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
