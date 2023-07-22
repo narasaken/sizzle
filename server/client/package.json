@@ -8,6 +8,11 @@
     "build": "vite build",
     "preview": "vite preview"
   },
+  "engines": {
+    "node": "18.16.0",
+    "yarn": "1.22.19",
+    "npm": "9.6.7"
+  },
   "dependencies": {
     "@stripe/react-stripe-js": "^2.1.0",
     "@stripe/stripe-js": "^1.52.0",
